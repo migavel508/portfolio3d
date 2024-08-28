@@ -2,7 +2,11 @@
     "build": {
       "env": {
         "NPM_FLAGS": "--legacy-peer-deps"
-      }
+      },
+      "scripts": {
+  "vercel-build": "npm install --legacy-peer-deps && npm run build"
+}
+
     }
   }
   
