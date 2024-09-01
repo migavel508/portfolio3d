@@ -13,9 +13,9 @@
     "@emailjs/browser": "^3.10.0",
     "@react-three/drei": "^9.56.24",
     "@react-three/fiber": "^8.11.1",
+    "3dfolio": "file:",
     "framer-motion": "^9.0.7",
     "maath": "^0.5.2",
-    
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-router-dom": "^6.8.1",
