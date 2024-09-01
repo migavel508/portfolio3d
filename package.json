@@ -5,9 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm install --legacy-peer-deps && vercel build",
+    "build": "npm install --force && vercel build",
     "preview": "vite preview",
-    "postinstall": "npm install --legacy-peer-deps"
+    "postinstall": "npm install --force"
   },
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
